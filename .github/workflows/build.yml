@@ -3,8 +3,8 @@ name: build
 on:
   push:
     branches:
-      - mastermaster
-      - patch-1
+      - master
+      - patch-1patch-1
   workflow_dispatch:
 jobs:
   build:
